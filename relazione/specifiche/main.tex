@@ -1,0 +1,76 @@
+%       dFile: main.tex
+%     Created: mer giu 15 06:00  2011 C
+% Last Change: mer giu 15 06:00  2011 C
+%
+\chapter{Specifiche di progetto}
+%\begin{flushright}
+%  \textit{Andrew: ``Uno \`e lieto di poter servire''\\L'uomo bicentenario (1999)}
+%\end{flushright}
+\vspace {30pt}
+
+Riepilogo delle specifiche imposte per l'amplificatore e di quelle imposte per
+la progettazione.
+\newpage
+
+\section{Specifiche imposte}
+  Si progetti un amplificatore audio con le seguenti caratteristiche:
+  \begin{description}
+    \item[Impedenza di carico]: 8 \ohm (il carico dell'amplificatore sar\`a un
+      tweeter);
+    \item[Banda]: [3,5; 21] kHz;
+    \item[Tipo di alimentazione]: singola;
+    \item[Distorsione massima in potenza]: 0,1\%;
+    \item[Massima potenza in uscita richiesta]: 50W;
+    \item[Massima potenza in ingresso]: 1mW;
+    \item[Max ripple del guadagno in banda]: 0.5dB;
+    \item[Tolleranze per componenti passivi]: [0,5\%; 1\%];
+    \item[Tolleranze per componenti attivi]: 50\%;
+    \item[Resistenza interna del generatore di segnale]: 50\ohm;
+  \end{description}
+  \subsection{Restrizioni ulteriori}
+  Nello sviluppo del sistema, tenere conto dei seguenti vincoli di progetto:
+  \begin{itemize}
+    \item per realizzare l'amplificatore occorre usare componenti commerciali e
+      come dispositivi attivi solamente transistor MOSFET:
+    \item il numero di componenti deve essere minimo
+    \item il consumo di potenza deve essere minimo;
+  \end{itemize}
+  \subsection{Conclusione del progetto}
+  Affinch\`e il progetto possa essere considerato concluso:
+  \begin{enumerate} 
+    \item l'amplificatore deve essere stabile;
+    \item lo schematico del circuito dovr\`a soddisfare le specifiche di
+      progetto.
+  \end{enumerate}
+\section{Consigli di progettazione}
+  Durante la progettazione dell'amplificatore tenere conto della seguente
+  traccia di massima:
+  \begin{enumerate}
+    \item Scegliere l'arhitettura del sistema:
+      \begin{itemize}
+	\item Retroazione?
+	\item Di che tipo?
+	\item Perch\`e?
+      \end{itemize}
+    \item Definire le specifiche di massima per ogni singolo blocco che
+      comporr\`a il sistema.
+    \item Partendo dall'ultimo, progettare ogni blocco, includendo gli effetti
+      di carico degli stadi successivi e il comportamento a largo segnale.
+      Verificare il comportamento complessivo dell'amplificatore.
+    \item Unire i vari stadi e verificare il comportamento complessivo
+      dell'amplificatore.
+    \item Verificare la stabilit\`a ed eventualmente compensare l'amplificatore.
+      Nel caso l'amplificatore sia accoppiato in AC, verificare anche la
+      stabilit\`a a bassa frequenza.
+    \item Verificare tutte le specifiche dell'amplificatore completo.
+  \end{enumerate}
+
+
+%  \begin{figure}[htbp]
+%    \center
+%    \includegraphics[height=12cm]{./001/img/schema_robot_mob}
+%    \caption{Schema di principio del funzionamento di un robot mobile}
+%    \label{fig:schema_rob_mob}
+%  \end{figure}
+
+\clearpage
