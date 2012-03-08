@@ -1,0 +1,1 @@
+.LIB	".\fairchild.lib" 

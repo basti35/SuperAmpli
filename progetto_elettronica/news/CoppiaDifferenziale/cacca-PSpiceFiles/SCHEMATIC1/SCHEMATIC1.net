@@ -1,0 +1,11 @@
+* source CACCA
+V_V2         N14705 0  
++SIN 0 1m 30kHz 0 0 0
+R_R1         N14617 N14581  1k TC=0,0 
+R_R2         N14621 N14581  1k TC=0,0 
+X_M2         N14617 0 N14625 2N7000/FAI
+V_V1         N14581 0 25
+X_M1         N14621 N14705 N14625 2N7000/FAI
+I_I1         N14625 0 DC 0.05Adc  
+R_R3         0 N22638  90 TC=0,0 
+C_C1         N22638 N14617  1F  TC=0,0 

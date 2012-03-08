@@ -1,0 +1,10 @@
+* source SOURCE_FOLLOWER
+R_Rs         0 N08058  8.23 TC=0,0 
+R_Rl         0 N08054  8 TC=0,0 
+V_V2         N08082 0 80Vdc
+C_C1         N08058 N08054  220m  TC=0,0 
+V_V3         N08020 0  
++SIN 0Vdc 29Vdc 3kHz 0 0 0
+M_M1         N08082 N08020 N08058 N08058 IRFP250
+R_R1         N08020 N08082  1.3k TC=0,0 
+R_R2         0 N08020  1k TC=0,0 

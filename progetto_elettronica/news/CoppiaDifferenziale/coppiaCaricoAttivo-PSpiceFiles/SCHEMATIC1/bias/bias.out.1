@@ -1,0 +1,49 @@
+
+**** 03/05/12 16:31:36 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CoppiaDifferenziale\coppiaCaricoAttivo-PSpiceFiles\SCHEMATIC1
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "bias.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/OrCAD/OrCAD_16.3_Demo/tools/pspice/library/fairchild.lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.3_Demo\tools\PSpice\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 10ns 0 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source COPPIACARICOATTIVO
+I_I4         N20389 N20223 DC 20uAdc  
+V_V9         N20389 0 80Vdc
+X_M9         N20223 N20321 N20257 NDT014/FAI
+X_M10         N20223 0 N20265 NDT014/FAI
+V_V10         N20321 0  
++SIN 0 1m 20kHz 0 0 0
+X_M11         N20265 N20257 0 2N7000/FAI
+
+**** RESUMING bias.cir ****
+.END
+
+ERROR -- Circuit Too Large!
+EVALUATION VERSION Limit Exceeded for "X" Devices!
+
+
+

@@ -1,0 +1,18 @@
+** Profile: "SCHEMATIC1-acsweep"  [ Y:\ORCAD\progetto\stadio_2\Commonsource-PSpiceFiles\SCHEMATIC1\acsweep.sim ] 
+
+** Creating circuit file "acsweep.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../commonsource-pspicefiles/schematic1/time/fairchild.lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.2\tools\PSpice\PSpice.ini file:
+
+*Analysis directives: 
+.AC DEC 50 3.5k 21k
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

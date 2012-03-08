@@ -1,0 +1,7 @@
+* source COMMON_SOURCE
+X_M1         N00096 N00265 0 2N7000/FAI
+V_V1         N00100 0 80
+V_V2         N00265 0  
++SIN 0 3 3KHz 0 0 0
+I_I1         N00100 N00096 DC 0.01Adc  
+R_R1         0 N00096  1k TC=0,0 

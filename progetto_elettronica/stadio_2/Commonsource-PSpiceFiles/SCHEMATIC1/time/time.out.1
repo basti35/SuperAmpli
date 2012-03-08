@@ -1,0 +1,58 @@
+
+**** 03/04/12 16:41:26 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-time"  [ X:\PROGETTO_ELETTRONICA\STADIO_2\commonsource-pspicefiles\schematic1\time.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "time.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../commonsource-pspicefiles/schematic1/time/fairchild.lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.3_Demo\tools\PSpice\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 100us 0 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source COMMONSOURCE
+V_V5         N11644 0 80
+R_R5         0 N11634  565 TC=0,0 
+R_R6         0 N11686  50 TC=0,0 
+V_V6         N11702 0  
++SIN 0 3 30k 0 0 0
+X_M5         N11634 N11522 N11686 BSS123/FAI
+I_I2         N11644 N11634 DC 0.2Adc  
+R_R7         N11522 N11644  900 TC=0,0 
+R_R8         0 N11522  100 TC=0,0 
+C_C1         N11702 N11522  1  TC=0,0 
+X_M6         N18124 N18220 N18136 2N7000/FAI
+R_R10         N18124 N18236  100 TC=0,0 
+I_I3         N18136 0 DC 20u  
+V_V8         N18220 0  
++SIN 0 200u 20kHz 0 0 0
+X_M7         N18124 N18236 N18136 2N7000/FAI
+
+**** RESUMING time.cir ****
+.END
+
+ERROR -- Circuit Too Large!
+EVALUATION VERSION Limit Exceeded for "X" Devices!
+
+
+

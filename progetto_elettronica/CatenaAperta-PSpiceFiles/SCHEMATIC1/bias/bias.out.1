@@ -1,0 +1,58 @@
+
+**** 03/06/12 14:46:49 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CatenaAperta-PSpiceFiles\SCHEMATIC1\bias.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "bias.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/OrCAD/OrCAD_16.3_Demo/tools/pspice/library/fairchild.lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.3_Demo\tools\PSpice\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 10ns 0 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source CATENAAPERTA
+I_I1         N23066 0 DC 0.05Adc  
+R_R1         N23054 N23010  1k TC=0,0 
+V_V1         N23010 0 25
+X_M2         N23054 0 N23066 2N7000/FAI
+X_M1         N23060 N23152 N23066 2N7000/FAI
+R_R2         N23060 N23010  1k TC=0,0 
+V_V2         N23152 0  
++SIN 0 1m 30kHz 0 0 0
+R_R7         N23813 N23765  900 TC=0,0 
+R_R6         0 N23961  50 TC=0,0 
+R_R5         0 N23739  565 TC=0,0 
+C_C2         N23054 N23813  1  TC=0,0 
+I_I2         N23765 N23739 DC 0.2Adc  
+X_M5         N23739 N23813 N23961 BSS123/FAI
+R_R8         0 N23813  100 TC=0,0 
+V_V5         N23765 0 80
+
+**** RESUMING bias.cir ****
+.END
+
+ERROR -- Circuit Too Large!
+EVALUATION VERSION Limit Exceeded for "X" Devices!
+
+
+

@@ -1,0 +1,53 @@
+
+**** 11/30/11 16:52:41 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Punto di lavoro"  [ Y:\ORCAD\PROGETTO\prove\stadio 3_caso a -PSpiceFiles\SCHEMATIC1\Punto di lavoro.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Punto di lavoro.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../stadio 3_caso a -pspicefiles/stadio 3_caso a .lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.2\tools\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1000ns 0 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source STADIO 3_CASO A 
+M_M1         N00252 N00168 N00236 N00236 Mbreakn           
+R_R1         N00159 N00168  1k TC=0,0 
+V_V2         N00336 0 80Vdc
+R_Rs         0 N00236  1k TC=0,0 
+R_Rl         0 N00236  8 TC=0,0 
+R_Rd         N00252 N00336  1k TC=0,0 
+V_V1         N00159 0 3.2Vdc
+
+**** RESUMING "Punto di lavoro.cir" ****
+.END
+
+Unable to find index file "stadio 3_caso a .ind" for library file "stadio 3_caso a .lib"
+Making new index file "stadio 3_caso a .ind" for library file "stadio 3_caso a .lib"
+Index has 1 entries from 1 file(s).
+
+**** FROM LIBRARY "../../../stadio 3_caso a -pspicefiles/stadio 3_caso a .lib" ****
+.model Mbreakn NMOS (k=1m)
+---------------------$
+ERROR -- 'k' is not a model parameter name
+

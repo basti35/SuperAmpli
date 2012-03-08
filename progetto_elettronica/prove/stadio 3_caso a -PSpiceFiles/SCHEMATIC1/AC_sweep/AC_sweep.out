@@ -1,0 +1,142 @@
+
+**** 01/26/12 17:33:02 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-AC_sweep"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\ac_sweep.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "AC_sweep.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/OrCAD/OrCAD_16.2/tools/pspice/library/pwrmos.lib" 
+.LIB "../../../stadio 3_caso a -pspicefiles/stadio 3_caso a .lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.2\tools\PSpice\PSpice.ini file:
+.lib "C:\OrCAD\OrCAD_16.2\tools\pspice\library\pwrbjt.lib" 
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 2mS 0ms 1us 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source STADIO 3_CASO A 
+V_V2         N00336 0 40Vdc
+R_Rs         0 N00276  7 TC=0,0 
+M_M1         N00336 N00168 N00276 N00276 IRFP250
+V_V1         N00168 0 33Vdc
+
+**** RESUMING AC_sweep.cir ****
+.END
+
+**** 01/26/12 17:33:02 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-AC_sweep"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\ac_sweep.sim ] 
+
+
+ ****     MOSFET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               IRFP250         
+               NMOS            
+       LEVEL    3            
+           L    2.000000E-06 
+           W    1.2          
+         VTO    3.573        
+          KP   21.040000E-06 
+       GAMMA    0            
+         PHI     .6          
+      LAMBDA    0            
+          RD     .04988      
+          RS    7.336000E-03 
+          RG    5.029        
+         RDS  888.900000E+03 
+          IS   17.840000E-12 
+          JS    0            
+          PB     .8          
+        PBSW     .8          
+         CBD    4.368000E-09 
+          CJ    0            
+        CJSW    0            
+          TT  340.000000E-09 
+        CGSO    1.458000E-09 
+        CGDO  367.400000E-12 
+        CGBO    0            
+         TOX  100.000000E-09 
+          XJ    0            
+       UCRIT   10.000000E+03 
+       DELTA    0            
+         ETA    0            
+      DIOMOD    1            
+         VFB    0            
+        LETA    0            
+        WETA    0            
+          U0    0            
+        TEMP    0            
+         VDD    5            
+       XPART    0            
+
+
+**** 01/26/12 17:33:02 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-AC_sweep"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\ac_sweep.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00168)   33.0000 (N00276)   28.5930 (N00336)   40.0000 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V2        -4.085E+00
+    V_V1         0.000E+00
+
+    TOTAL POWER DISSIPATION   1.63E+02  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 01/26/12 17:33:02 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-AC_sweep"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\ac_sweep.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .23
+

@@ -1,0 +1,48 @@
+
+**** 03/03/12 14:46:21 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-tempo"  [ X:\PROGETTO_ELETTRONICA\STADIO_3\source_follower-pspicefiles\schematic1\tempo.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "tempo.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.3_Demo\tools\PSpice\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 10m 0 1u 
+.OPTIONS STEPGMIN
+.OPTIONS RELTOL= 1m
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source SOURCE_FOLLOWER
+R_Rs         0 N08058  8.23 TC=0,0 
+R_Rl         0 N08054  8 TC=0,0 
+V_V2         N08082 0 80Vdc
+C_C1         N08058 N08054  220m  TC=0,0 
+V_V3         N08020 0  
++SIN 0Vdc 29Vdc 3kHz 0 0 0
+M_M1         N08082 N08020 N08058 N08058 IRFP250
+R_R1         N08020 N08082  1.3k TC=0,0 
+R_R2         0 N08020  1k TC=0,0 
+
+**** RESUMING tempo.cir ****
+.END
+
+ERROR -- Model IRFP250 used by M_M1 is undefined

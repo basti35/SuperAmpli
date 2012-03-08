@@ -1,0 +1,1149 @@
+***** START ******
+Tue Jan 31 15:45:08 2012
+SchematicFrame_OnClose
+DMDoc_CloseDocument
+PMFrame_Create
+CMD_ADD
+Add Page to Schematic: SCHEMATIC1 : 
+PAGE1
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SchematicFrame_Create
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS28. Source Part Name: MTD2N50/ON.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ON_MOS.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS57. Source Part Name: 2N7002/FAI.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\FAIRCHILD.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS86. Source Part Name: 2N7000/FAI.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\FAIRCHILD.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS117. Source Part Name: VSIN.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: VAMPL. Value: <VAMPL>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: VAMPL. Value: 3.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: FREQ. Value: <FREQ>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 2.90, 3.50 Pos End: 2.90, 3.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 2.90, 3.50 Pos End: 2.90, 3.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ Name: 0 Object Type: ID_POWER/ID_GROUND Library: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB GraphicObjectName: 0
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal Yes.  .IsBus No.  Pos Begin: 2.90, 4.20 Pos End: 2.90, 3.90
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS182. Source Part Name: VDC.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 20. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 13. INS182
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 13. INS182
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 0Vdc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: Vdc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3Vdc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3.3Vdc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+COrSchematicOleTracker::Finalize(BOOL bCreateDBObj)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3.3Vdc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 4.20, 2.80 Pos End: 4.20, 2.10
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 4.20, 2.10 Pos End: 5.50, 2.10
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 4.20, 2.10 Pos End: 5.50, 2.10
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+COrSchematicOleTracker::Finalize(BOOL bCreateDBObj)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+COrSchematicOleTracker::Finalize(BOOL bCreateDBObj)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal Yes.  .IsBus No.  Pos Begin: 4.20, 4.20 Pos End: 4.20, 3.20
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal Yes.  .IsBus No.  Pos Begin: 5.50, 3.30 Pos End: 5.50, 4.20
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS423. Source Part Name: R.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 4.20, 3.50 Pos End: 4.20, 3.20
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal Yes.  .IsBus No.  Pos Begin: 4.20, 3.90 Pos End: 4.20, 4.20
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 4.20, 3.50 Pos End: 4.20, 3.90
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS529. Source Part Name: R.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 20. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 13. INS529
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: VOFF. Value: <VOFF>
+Object Type: 39. Display Property Name: VAMPL. Value: 300m
+Object Type: 39. Display Property Name: FREQ. Value: 20k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: VOFF. Value: <VOFF>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: VAMPL. Value: 300m
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Current. Value: 59.78mA
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Voltage. Value: 218.4mV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3.3Vdc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 1k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 10k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 5Vdc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 500
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Current. Value: -4.119uA
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS1128. Source Part Name: R.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 13. INS1128
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 20. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 13. INS1128
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 1k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 8Vdc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Voltage. Value: 1.093V
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS1509. Source Part Name: VAC.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: ACMAG. Value: 1Vac
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 0Vdc
+Object Type: 39. Display Property Name: ACMAG. Value: 300mVac
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 500
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 500
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 800
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 500
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 300
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 60Vdc
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Current. Value: 180.0uA
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Current. Value: 180.0uA
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 4.20, 3.50 Pos End: 4.20, 3.90
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3.3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 6.97
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS2232. Source Part Name: R.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 20. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 1k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS2432. Source Part Name: VSIN.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: VAMPL. Value: <VAMPL>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: FREQ. Value: <FREQ>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: VOFF. Value: <VOFF>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 97. PSpice
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 4.15
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 10k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: VOFF. Value: 0
+Object Type: 39. Display Property Name: VAMPL. Value: 300m
+Object Type: 39. Display Property Name: FREQ. Value: 20k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 7.25
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 7.25V
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: VAMPL. Value: 300m
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 4.20, 3.50 Pos End: 4.20, 3.90
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus Yes.  Pos Begin: 2.20, 3.20 Pos End: 2.20, 3.10
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus Yes.  Pos Begin: 2.20, 3.10 Pos End: 2.30, 3.10
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 7.25V
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 7
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3..
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3.3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 2.90, 3.50 Pos End: 2.90, 3.90
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 2.90, 3.70 Pos End: 2.70, 3.70
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 7
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 1.77
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 10k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 6
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SchematicView_EditProperties PAGE1
+PropertyEditorFrame_Create
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Voltage. Value: 0V
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 1.17
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 1.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 0.9
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 0.6
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3.3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 1k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3.3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 33
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 2.1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 10k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS3993. Source Part Name: R.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 20. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 20. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Voltage. Value: 0V
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Current. Value: 1.738mA
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: BiasValue Current. Value: -1.738mA
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS4370. Source Part Name: R.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+COrSchematicOleTracker::Finalize(BOOL bCreateDBObj)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal Yes.  .IsBus No.  Pos Begin: 4.20, 4.00 Pos End: 4.20, 4.20
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: Value. Value: 1k
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 4.20, 3.60 Pos End: 4.20, 4.10
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 2.0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: PLACED_INSTANCE. Name: INS4703. Source Part Name: R.Normal. Library Name: C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_MOVE
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 20. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_ADD
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+ WIRE. Name:  . IsGlobal No.  .IsBus No.  Pos Begin: 4.20, 3.60 Pos End: 4.20, 4.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CMD_EDITPROPS
+Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN|SCHEMATIC1|PAGE1
+Object Type: 39. Display Property Name: DC. Value: 4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ DM FileSave 
+ Design Name: Y:\ORCAD\PROGETTO\STADIO_2\COMMONSOURCE.DSN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+

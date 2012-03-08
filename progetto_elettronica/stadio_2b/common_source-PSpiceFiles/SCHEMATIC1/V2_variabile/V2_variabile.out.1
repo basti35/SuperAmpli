@@ -1,0 +1,49 @@
+
+**** 02/29/12 19:29:25 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-V2_variabile"  [ X:\PROGETTO_ELETTRONICA\STADIO_2B\common_source-pspicefiles\schematic1\v2_variabile.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "V2_variabile.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+.INC "X:\PROGETTO_ELETTRONICA\STADIO_2B\common_source-pspicefiles\schematic1\V2_variabile\V2_variabile_profile.inc" 
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.3_Demo\tools\PSpice\PSpice.ini file:
+
+**** INCLUDING V2_variabile_profile.inc ****
+.LIB    ".\fairchild.lib" 
+
+**** RESUMING V2_variabile.cir ****
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 1000ns 0 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source COMMON_SOURCE
+X_M1         N00171 N00265 0 2N7000/FAI
+R_R1         N00171 N00096  800 TC=0,0 
+V_V1         N00096 0 68Vdc
+V_V2         N00265 0  
++SIN <VOFF> 3 3KHz 0 0 0
+------$
+ERROR -- Missing value
+
+**** RESUMING V2_variabile.cir ****
+.END
+

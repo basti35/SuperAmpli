@@ -1,0 +1,87 @@
+("FILE_TYPE"	"PMAP File"
+    ("devices"
+        ("IDC")
+        ("VDC")
+        ("C")
+        ("R")
+    )
+    ("instances"
+        ("I1"
+            ("device_name"	"IDC")
+            ("pspice_path"	"I_I1")
+            ("level"	"0")
+            ("model_params"
+                ("DC"
+                    ("value"	"3.8Adc")
+                    ("pspice_param"	"DC")
+                )
+            )
+        )
+        ("V3"
+            ("device_name"	"VDC")
+            ("pspice_path"	"V_V3")
+            ("level"	"0")
+            ("model_params"
+                ("DC"
+                    ("value"	"33Vdc")
+                    ("pspice_param"	"DC")
+                )
+            )
+        )
+        ("V2"
+            ("device_name"	"VDC")
+            ("pspice_path"	"V_V2")
+            ("level"	"0")
+            ("model_params"
+                ("DC"
+                    ("value"	"28")
+                    ("pspice_param"	"DC")
+                )
+            )
+        )
+        ("V4"
+            ("device_name"	"VDC")
+            ("pspice_path"	"V_V4")
+            ("level"	"0")
+            ("model_params"
+                ("DC"
+                    ("value"	"40Vdc")
+                    ("pspice_param"	"DC")
+                )
+            )
+        )
+        ("C1"
+            ("device_name"	"C")
+            ("pspice_path"	"C_C1")
+            ("level"	"0")
+            ("model_params"
+                ("VALUE"
+                    ("value"	"2u")
+                    ("pspice_param"	"VALUE")
+                )
+            )
+        )
+        ("R_L"
+            ("device_name"	"R")
+            ("pspice_path"	"R_R_L")
+            ("level"	"0")
+            ("model_params"
+                ("VALUE"
+                    ("value"	"8")
+                    ("pspice_param"	"VALUE")
+                )
+            )
+        )
+        ("Rs1"
+            ("device_name"	"R")
+            ("pspice_path"	"R_Rs1")
+            ("level"	"0")
+            ("model_params"
+                ("VALUE"
+                    ("value"	"7")
+                    ("pspice_param"	"VALUE")
+                )
+            )
+        )
+    )
+)

@@ -1,0 +1,134 @@
+
+**** 11/30/11 17:09:38 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Punto di lavoro"  [ Y:\ORCAD\PROGETTO\prove\stadio 3_caso a -PSpiceFiles\SCHEMATIC1\Punto di lavoro.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Punto di lavoro.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../stadio 3_caso a -pspicefiles/stadio 3_caso a .lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.2\tools\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1000ns 0 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source STADIO 3_CASO A 
+M_M1         N00336 N00159 N00276 N00276 Mbreakn           
+V_V2         N00336 0 80Vdc
+R_Rs         0 N00276  7 TC=0,0 
+R_Rl         0 N00270  8 TC=0,0 
+V_V1         N00159 0 32Vdc
+C_C1         N00276 N00270  1n  TC=0,0 
+
+**** RESUMING "Punto di lavoro.cir" ****
+.END
+
+**** 11/30/11 17:09:38 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Punto di lavoro"  [ Y:\ORCAD\PROGETTO\prove\stadio 3_caso a -PSpiceFiles\SCHEMATIC1\Punto di lavoro.sim ] 
+
+
+ ****     MOSFET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               Mbreakn         
+               NMOS            
+       LEVEL    1            
+           L  100.000000E-06 
+           W  100.000000E-06 
+         VTO    0            
+          KP    1.000000E-03 
+       GAMMA    0            
+         PHI     .6          
+      LAMBDA    0            
+          IS   10.000000E-15 
+          JS    0            
+          PB     .8          
+        PBSW     .8          
+          CJ    0            
+        CJSW    0            
+        CGSO    0            
+        CGDO    0            
+        CGBO    0            
+         TOX    0            
+          XJ    0            
+       UCRIT   10.000000E+03 
+      DIOMOD    1            
+         VFB    0            
+        LETA    0            
+        WETA    0            
+          U0    0            
+        TEMP    0            
+         VDD    5            
+       XPART    0            
+
+
+**** 11/30/11 17:09:38 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Punto di lavoro"  [ Y:\ORCAD\PROGETTO\prove\stadio 3_caso a -PSpiceFiles\SCHEMATIC1\Punto di lavoro.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00159)   32.0000 (N00270)    0.0000 (N00276)    2.9530 (N00336)   80.0000 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V2        -4.219E-01
+    V_V1         0.000E+00
+
+    TOTAL POWER DISSIPATION   3.37E+01  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 11/30/11 17:09:38 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Punto di lavoro"  [ Y:\ORCAD\PROGETTO\prove\stadio 3_caso a -PSpiceFiles\SCHEMATIC1\Punto di lavoro.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .27
+

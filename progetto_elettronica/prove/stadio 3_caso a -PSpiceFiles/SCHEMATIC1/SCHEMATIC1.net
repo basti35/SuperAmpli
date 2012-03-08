@@ -1,0 +1,12 @@
+* source STADIO 3_CASO A 
+I_I1         N00276 0 DC 3.8Adc  
+V_V3         N09676 0 33Vdc
+V_V2         N00336 0 28
+V_V4         N09730 0 40Vdc
+C_C1         N00276 N10701  2u  TC=0,0 
+M_M3         N00336 N10127 N00276 N00276 IRFP250
+M_M2         N09730 N09676 N09706 N09706 IRFP250
+V_V5         N10127 0  
++SIN 0 31 20k 0 0 0
+R_R_L         0 N10701  8 TC=0,0 
+R_Rs1         0 N09706  7 TC=0,0 

@@ -1,0 +1,159 @@
+*version 9.1 1994628810
+@index
+symloc FairchildMOS 0 543
+symloc FairchildMOS_thermal 543 1067
+symloc Thermal_Model 1610 585
+*symbol FairchildMOS
+d Fairchild MOSFET symbol
+@type p 9.1
+@attributes
+a 1 sp 0 0 0 0 hcn 100 TEMPLATE=X^@refdes %d %g %s @MODEL
+a 0 s 9 0 5 10 hcn 100 REFDES=X?
+a 0 sp 0:11 0 56 26 hcn 100 PART=
+a 0 s 13 0 58 22 hcn 100 MODEL=FairchildMOS
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol FairchildMOS_thermal
+d Fairchild MOSFET w/thermal feedback
+@type p 9.1
+@attributes
+a 1 sp 0 0 0 0 hcn 100 TEMPLATE=X^@refdes %d %g %s %Tj %Tcase @MODEL
+a 1 s 9 0 39 -4 hcn 100 REFDES=X?
+a 0 sp 0:11 0 56 26 hcn 100 PART=
+a 0 s 13 0 58 4 hcn 100 MODEL=FairchildMOS
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+a 0 s 0:1 0 31 38 hln 100 PIN=s
+a 0 s 0:13 0 0 0 hln 100 ERC=x
+p 0 13 22 hln 100 g n 0 20 h
+a 0 s 0:1 0 1 18 hln 100 PIN=g
+a 0 s 0:13 0 0 0 hln 100 ERC=x
+p 0 25 10 hcn 100 d n 30 0 d
+a 0 s 0:1 0 31 -2 hln 100 PIN=d
+a 0 s 0:13 0 0 0 hln 100 ERC=x
+p 2 42 8 hrn 50 Tj n 50 10 u
+a 0 s 0:1 0 37 8 hln 100 PIN=Tj
+a 0 s 0:13 0 50 10 hln 100 ERC=x
+a 0 s 0:13 0 0 0 hln 100 FLOAT=n
+p 2 48 36 hrn 50 Tcase n 50 30 u
+a 0 s 0:1 0 39 38 hln 100 PIN=Tcase
+a 0 s 0:13 0 50 30 hln 100 ERC=x
+@graphics 50 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+r 0 35 15 45 25
+z 26 36 22 hln 60 3
+Zjc
+v 0 40 10
+40 15
+;
+v 0 40 30
+40 25
+;
+*symbol Thermal_Model
+d Thermal Model
+@type p 9.1
+@attributes
+a 0 sp 9 0 0 -12 hln 100 REFDES=X?
+a 0 s 13 0 0 -2 hln 100 MODEL=Thermal_Model
+a 0 sp 0 0 0 0 hln 100 TEMPLATE=X^@REFDES %Tj %Tc @Model
+@pins
+p 2 48 18 hrn 100 Tc n 50 20 u
+a 0 s 0:1 0 41 26 hln 100 PIN=2
+a 0 s 0:13 0 50 20 hln 100 ERC=x
+p 2 0 18 hln 100 Tj n 0 20 h
+a 0 s 0:1 0 9 18 hrn 100 PIN=1
+a 0 s 0:13 0 0 20 hln 100 ERC=x
+@graphics 50 28 0 0 10
+v 0 12 10
+16 0
+;
+v 0 18 10
+22 0
+;
+v 0 24 10
+28 0
+;
+v 0 30 10
+34 0
+;
+v 0 12 20
+12 20
+14 12
+18 28
+22 12
+26 28
+30 12
+34 28
+36 20
+36 20
+;
+v 0 40 20
+36 20
+;
+v 0 10 20
+12 20
+;

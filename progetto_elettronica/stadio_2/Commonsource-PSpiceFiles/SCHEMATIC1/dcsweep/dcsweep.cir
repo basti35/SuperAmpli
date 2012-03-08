@@ -1,0 +1,19 @@
+** Profile: "SCHEMATIC1-dcsweep"  [ X:\PROGETTO_ELETTRONICA\STADIO_2\Commonsource-PSpiceFiles\SCHEMATIC1\dcsweep.sim ] 
+
+** Creating circuit file "dcsweep.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../commonsource-pspicefiles/schematic1/time/fairchild.lib" 
+* From [PSPICE NETLIST] section of C:\Cadence\SPB_16.3\tools\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.DC LIN I_I2 0.001 1 0.01 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

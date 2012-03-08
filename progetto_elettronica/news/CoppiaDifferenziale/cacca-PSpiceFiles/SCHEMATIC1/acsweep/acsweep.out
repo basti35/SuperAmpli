@@ -1,0 +1,183 @@
+
+**** 03/06/12 02:18:38 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-acsweep"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CoppiaDifferenziale\cacca-PSpiceFiles\SCHEMATIC1\acsweep.s
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "acsweep.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/OrCAD/OrCAD_16.3_Demo/tools/pspice/library/fairchild.lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.3_Demo\tools\PSpice\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.AC DEC 30 1kHz 30kHz
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source CACCA
+V_V2         N14705 0  
++SIN 0 .1m 30kHz 0 0 0
+R_R1         N14617 N14581  1k TC=0,0 
+R_R2         N14621 N14581  1k TC=0,0 
+X_M2         N14617 0 N14625 2N7000/FAI
+V_V1         N14581 0 15
+X_M1         N14621 N14705 N14625 2N7000/FAI
+I_I1         N14625 0 DC 25mAdc  
+C_C1         N19502 N14617  1  TC=0,0 
+R_R3         0 N19502  90 TC=0,0 
+
+**** RESUMING acsweep.cir ****
+.END
+
+**** 03/06/12 02:18:38 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-acsweep"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CoppiaDifferenziale\cacca-PSpiceFiles\SCHEMATIC1\acsweep.s
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_M2.DDS        X_M2.DBODY      X_M2.DGD        X_M1.DDS        
+          IS   10.000000E-15  140.000000E-15   10.000000E-15   10.000000E-15 
+          BV   60.0864                                         60.0864       
+          RS                     .04                                         
+          TT                  100.000000E-09                                 
+         CJO   23.000000E-12                   85.000000E-12   23.000000E-12 
+          VJ     .8                              .12             .8          
+           M     .36                             .53             .36         
+
+
+               X_M1.DBODY      X_M1.DGD        
+          IS  140.000000E-15   10.000000E-15 
+          RS     .04                         
+          TT  100.000000E-09                 
+         CJO                   85.000000E-12 
+          VJ                     .12         
+           M                     .53         
+
+
+**** 03/06/12 02:18:38 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-acsweep"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CoppiaDifferenziale\cacca-PSpiceFiles\SCHEMATIC1\acsweep.s
+
+
+ ****     MOSFET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_M2.DMOS       X_M2.INTER      X_M1.DMOS       X_M1.INTER      
+               NMOS            NMOS            NMOS            NMOS            
+       LEVEL    3               1               3               1            
+           L  100.000000E-06  100.000000E-06  100.000000E-06  100.000000E-06 
+           W  100.000000E-06  100.000000E-06  100.000000E-06  100.000000E-06 
+         VTO    2.09328         0               2.09328         0            
+          KP     .35           10                .35           10            
+       GAMMA    0               0               0               0            
+         PHI     .6              .6              .6              .6          
+      LAMBDA    0               0               0               0            
+          IS   10.000000E-15   10.000000E-15   10.000000E-15   10.000000E-15 
+          JS    0               0               0               0            
+          PB     .8              .8              .8              .8          
+        PBSW     .8              .8              .8              .8          
+          CJ    0               0               0               0            
+        CJSW    0               0               0               0            
+        CGSO    0               0               0               0            
+        CGDO    0               0               0               0            
+        CGBO    0               0               0               0            
+         TOX  100.000000E-09    0             100.000000E-09    0            
+          XJ    0               0               0               0            
+       UCRIT   10.000000E+03   10.000000E+03   10.000000E+03   10.000000E+03 
+        VMAX  220.000000E+03                  220.000000E+03                 
+       THETA     .086                            .086                        
+      DIOMOD    1               1               1               1            
+         VFB    0               0               0               0            
+        LETA    0               0               0               0            
+        WETA    0               0               0               0            
+          U0    0               0               0               0            
+        TEMP    0               0               0               0            
+         VDD    5               5               5               5            
+       XPART    0               0               0               0            
+
+
+**** 03/06/12 02:18:38 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-acsweep"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CoppiaDifferenziale\cacca-PSpiceFiles\SCHEMATIC1\acsweep.s
+
+
+ ****     SMALL SIGNAL BIAS SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N14581)   15.0000 (N14617)    2.4998 (N14621)    2.4998 (N14625)   -2.3736     
+
+(N14705)    0.0000 (N19502)    0.0000 (X_M1.1) 249.6E-09 (X_M1.2)    2.4910     
+
+(X_M1.3)   -2.3735 (X_M1.4)    2.4960 (X_M1.5)   -2.3736 (X_M1.6) 254.6E-09     
+
+(X_M1.7)    2.4960 (X_M1.8)    4.9920 (X_M1.9)   -4.9920 (X_M2.1) 249.6E-09     
+
+(X_M2.2)    2.4910 (X_M2.3)   -2.3735 (X_M2.4)    2.4960 (X_M2.5)   -2.3736     
+
+(X_M2.6) 254.6E-09 (X_M2.7)    2.4960 (X_M2.8)    4.9920 (X_M2.9)   -4.9920 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V2         2.496E-07
+    V_V1        -2.500E-02
+
+    TOTAL POWER DISSIPATION   3.75E-01  WATTS
+
+
+WARNING -- No AC sources -- AC Sweep ignored
+
+          JOB CONCLUDED
+
+**** 03/06/12 02:18:38 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-acsweep"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CoppiaDifferenziale\cacca-PSpiceFiles\SCHEMATIC1\acsweep.s
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .02
+

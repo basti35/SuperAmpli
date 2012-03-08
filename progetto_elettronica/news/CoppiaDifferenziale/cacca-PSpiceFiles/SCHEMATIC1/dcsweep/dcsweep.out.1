@@ -1,0 +1,46 @@
+
+**** 03/06/12 02:04:16 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-dcsweep"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CoppiaDifferenziale\cacca-PSpiceFiles\SCHEMATIC1\dcsweep.s
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "dcsweep.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/OrCAD/OrCAD_16.3_Demo/tools/pspice/library/fairchild.lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.3_Demo\tools\PSpice\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.DC LIN PARAM I1 .01 1 2 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source CACCA
+V_V2         N14705 0  
++SIN 0 .1m 30kHz 0 0 0
+R_R1         N14617 N14581  0.1k TC=0,0 
+R_R2         N14621 N14581  0.1k TC=0,0 
+X_M2         N14617 0 N14625 2N7000/FAI
+V_V1         N14581 0 5
+X_M1         N14621 N14705 N14625 2N7000/FAI
+I_I1         N14625 0 DC .03Adc  
+
+**** RESUMING dcsweep.cir ****
+.END
+
+ERROR -- Undefined parameter: I1

@@ -1,0 +1,12467 @@
+*version 9.1 2808657025
+@index
+symloc 2N7000/FAI 0 552
+symloc 2N7002/FAI 552 552
+symloc BSS123/FAI 1104 552
+symloc BSS138/FAI 1656 552
+symloc FDC6322CN/FAI 2208 561
+symloc FDC6322CP/FAI 2769 561
+symloc FDP7030L/FAI 3330 558
+symloc FDS6680/FAI 3888 555
+symloc FDV301N/FAI 4443 555
+symloc FDV304P/FAI 4998 555
+symloc NDB4050/FAI 5553 555
+symloc NDB405A/FAI 6108 555
+symloc NDB405AE/FAI 6663 558
+symloc NDB405AEL/FAI 7221 561
+symloc NDB405AL/FAI 7782 558
+symloc NDB405B/FAI 8340 555
+symloc NDB405BE/FAI 8895 558
+symloc NDB405BEL/FAI 9453 561
+symloc NDB405BL/FAI 10014 558
+symloc NDB4060/FAI 10572 555
+symloc NDB406A/FAI 11127 555
+symloc NDB406AE/FAI 11682 558
+symloc NDB406AEL/FAI 12240 561
+symloc NDB406AL/FAI 12801 558
+symloc NDB406B/FAI 13359 555
+symloc NDB406BE/FAI 13914 558
+symloc NDB406BEL/FAI 14472 561
+symloc NDB406BL/FAI 15033 558
+symloc NDB408A/FAI 15591 555
+symloc NDB408AE/FAI 16146 558
+symloc NDB408B/FAI 16704 555
+symloc NDB408BE/FAI 17259 558
+symloc NDB505A/FAI 17817 555
+symloc NDB505AE/FAI 18372 558
+symloc NDB505AEL/FAI 18930 561
+symloc NDB505AL/FAI 19491 558
+symloc NDB505B/FAI 20049 555
+symloc NDB505BE/FAI 20604 558
+symloc NDB505BEL/FAI 21162 561
+symloc NDB505BL/FAI 21723 558
+symloc NDB5060/FAI 22281 555
+symloc NDB506A/FAI 22836 555
+symloc NDB506AE/FAI 23391 558
+symloc NDB506AEL/FAI 23949 561
+symloc NDB506AL/FAI 24510 558
+symloc NDB506B/FAI 25068 555
+symloc NDB506BE/FAI 25623 558
+symloc NDB506BEL/FAI 26181 561
+symloc NDB506BL/FAI 26742 558
+symloc NDB508A/FAI 27300 555
+symloc NDB508AE/FAI 27855 558
+symloc NDB508B/FAI 28413 555
+symloc NDB508BE/FAI 28968 558
+symloc NDB605A/FAI 29526 555
+symloc NDB605AE/FAI 30081 558
+symloc NDB605AEL/FAI 30639 561
+symloc NDB605AL/FAI 31200 558
+symloc NDB605B/FAI 31758 555
+symloc NDB605BE/FAI 32313 558
+symloc NDB605BEL/FAI 32871 561
+symloc NDB605BL/FAI 33432 558
+symloc NDB6060/FAI 33990 555
+symloc NDB6060L/FAI 34545 558
+symloc NDB606A/FAI 35103 555
+symloc NDB606AE/FAI 35658 558
+symloc NDB606AEL/FAI 36216 561
+symloc NDB606AL/FAI 36777 558
+symloc NDB606B/FAI 37335 555
+symloc NDB606BE/FAI 37890 558
+symloc NDB606BEL/FAI 38448 561
+symloc NDB606BL/FAI 39009 558
+symloc NDB608A/FAI 39567 555
+symloc NDB608AE/FAI 40122 558
+symloc NDB608B/FAI 40680 555
+symloc NDB608BE/FAI 41235 558
+symloc NDB7050/FAI 41793 555
+symloc NDB705A/FAI 42348 555
+symloc NDB705AE/FAI 42903 558
+symloc NDB705AEL/FAI 43461 561
+symloc NDB705AL/FAI 44022 558
+symloc NDB705B/FAI 44580 555
+symloc NDB705BE/FAI 45135 558
+symloc NDB705BEL/FAI 45693 561
+symloc NDB705BL/FAI 46254 558
+symloc NDB7060/FAI 46812 555
+symloc NDB7060L/FAI 47367 558
+symloc NDB706A/FAI 47925 555
+symloc NDB706AE/FAI 48480 558
+symloc NDB706AEL/FAI 49038 561
+symloc NDB706AL/FAI 49599 558
+symloc NDB706B/FAI 50157 555
+symloc NDB706BE/FAI 50712 558
+symloc NDB706BEL/FAI 51270 561
+symloc NDB706BL/FAI 51831 558
+symloc NDB708A/FAI 52389 555
+symloc NDB708AE/FAI 52944 558
+symloc NDB708B/FAI 53502 555
+symloc NDB708BE/FAI 54057 558
+symloc NDC631N/FAI 54615 555
+symloc NDC632P/FAI 55170 555
+symloc NDC651N/FAI 55725 555
+symloc NDC652P/FAI 56280 555
+symloc NDC7001N/FAI 56835 558
+symloc NDC7001P/FAI 57393 558
+symloc NDC7002N/FAI 57951 558
+symloc NDC7003P/FAI 58509 558
+symloc NDF0610/FAI 59067 555
+symloc NDH831N/FAI 59622 555
+symloc NDH832P/FAI 60177 555
+symloc NDH8436/FAI 60732 555
+symloc NDH8447/FAI 61287 555
+symloc NDM3000Q1/FAI 61842 561
+symloc NDM3000Q2/FAI 62403 561
+symloc NDM3000Q3/FAI 62964 561
+symloc NDM3000Q4/FAI 63525 561
+symloc NDM3000Q5/FAI 64086 561
+symloc NDM3000Q6/FAI 64647 561
+symloc NDP4050/FAI 65208 555
+symloc NDP405A/FAI 65763 555
+symloc NDP405AE/FAI 66318 558
+symloc NDP405AEL/FAI 66876 561
+symloc NDP405AL/FAI 67437 558
+symloc NDP405B/FAI 67995 555
+symloc NDP405BE/FAI 68550 558
+symloc NDP405BEL/FAI 69108 561
+symloc NDP405BL/FAI 69669 558
+symloc NDP4060/FAI 70227 555
+symloc NDP406A/FAI 70782 555
+symloc NDP406AE/FAI 71337 558
+symloc NDP406AEL/FAI 71895 561
+symloc NDP406AL/FAI 72456 558
+symloc NDP406B/FAI 73014 555
+symloc NDP406BE/FAI 73569 558
+symloc NDP406BEL/FAI 74127 561
+symloc NDP406BL/FAI 74688 558
+symloc NDP408A/FAI 75246 555
+symloc NDP408AE/FAI 75801 558
+symloc NDP408B/FAI 76359 555
+symloc NDP408BE/FAI 76914 558
+symloc NDP505A/FAI 77472 555
+symloc NDP505AE/FAI 78027 558
+symloc NDP505AEL/FAI 78585 561
+symloc NDP505AL/FAI 79146 558
+symloc NDP505B/FAI 79704 555
+symloc NDP505BE/FAI 80259 558
+symloc NDP505BEL/FAI 80817 561
+symloc NDP505BL/FAI 81378 558
+symloc NDP506A/FAI 81936 555
+symloc NDP506AE/FAI 82491 558
+symloc NDP506AEL/FAI 83049 561
+symloc NDP506AL/FAI 83610 558
+symloc NDP506B/FAI 84168 555
+symloc NDP506BE/FAI 84723 558
+symloc NDP506BEL/FAI 85281 561
+symloc NDP506BL/FAI 85842 558
+symloc NDP508A/FAI 86400 555
+symloc NDP508AE/FAI 86955 558
+symloc NDP508B/FAI 87513 555
+symloc NDP508BE/FAI 88068 558
+symloc NDP603AL/FAI 88626 558
+symloc NDP605A/FAI 89184 555
+symloc NDP605AE/FAI 89739 558
+symloc NDP605AEL/FAI 90297 561
+symloc NDP605AL/FAI 90858 558
+symloc NDP605B/FAI 91416 555
+symloc NDP605BE/FAI 91971 558
+symloc NDP605BEL/FAI 92529 561
+symloc NDP605BL/FAI 93090 558
+symloc NDP6060/FAI 93648 555
+symloc NDP6060L/FAI 94203 558
+symloc NDP606A/FAI 94761 555
+symloc NDP606AE/FAI 95316 558
+symloc NDP606AEL/FAI 95874 561
+symloc NDP606AL/FAI 96435 558
+symloc NDP606B/FAI 96993 555
+symloc NDP606BE/FAI 97548 558
+symloc NDP606BEL/FAI 98106 561
+symloc NDP606BL/FAI 98667 558
+symloc NDP608A/FAI 99225 555
+symloc NDP608AE/FAI 99780 558
+symloc NDP608B/FAI 100338 555
+symloc NDP608BE/FAI 100893 558
+symloc NDP7050/FAI 101451 555
+symloc NDP7051/FAI 102006 555
+symloc NDP705A/FAI 102561 555
+symloc NDP705AE/FAI 103116 558
+symloc NDP705AEL/FAI 103674 561
+symloc NDP705AL/FAI 104235 558
+symloc NDP705B/FAI 104793 555
+symloc NDP705BE/FAI 105348 558
+symloc NDP705BEL/FAI 105906 561
+symloc NDP705BL/FAI 106467 558
+symloc NDP7060/FAI 107025 555
+symloc NDP7060L/FAI 107580 558
+symloc NDP7061/FAI 108138 555
+symloc NDP706A/FAI 108693 555
+symloc NDP706AE/FAI 109248 558
+symloc NDP706AEL/FAI 109806 561
+symloc NDP706AL/FAI 110367 558
+symloc NDP706B/FAI 110925 555
+symloc NDP706BE 111480 546
+symloc NDP706BEL/FAI 112026 561
+symloc NDP706BL/FAI 112587 558
+symloc NDP708A/FAI 113145 555
+symloc NDP708AE/FAI 113700 558
+symloc NDP708B/FAI 114258 555
+symloc NDP708BE/FAI 114813 558
+symloc NDS0605/FAI 115371 555
+symloc NDS0610/FAI 115926 555
+symloc NDS331N/FAI 116481 555
+symloc NDS332P/FAI 117036 555
+symloc NDS335N/FAI 117591 555
+symloc NDS336P/FAI 118146 555
+symloc NDS351N/AI 118701 552
+symloc NDS352P/FAI 119253 555
+symloc NDS355N/FAI 119808 555
+symloc NDS356P/FAI 120363 555
+symloc NDS7002A/FAI 120918 558
+symloc NDS8410/FAI 121476 555
+symloc NDS8426/FAI 122031 555
+symloc NDS8433/FAI 122586 555
+symloc NDS8434/FAI 123141 555
+symloc NDS8435/FAI 123696 555
+symloc NDS8852HN/FAI 124251 561
+symloc NDS8852HP/FAI 124812 561
+symloc NDS8858HN/FAI 125373 561
+symloc NDS8858HP/FAI 125934 561
+symloc NDS8926/FAI 126495 555
+symloc NDS8928N/FAI 127050 558
+symloc NDS8928P/FAI 127608 558
+symloc NDS8934/FAI 128166 555
+symloc NDS8936/FAI 128721 555
+symloc NDS8947/FAI 129276 555
+symloc NDS8958N/FAI 129831 558
+symloc NDS8958P/FAI 130389 558
+symloc NDS9400/FAI 130947 555
+symloc NDS9400A/FAI 131502 558
+symloc NDS9405/FAI 132060 555
+symloc NDS9407/FAI 132615 555
+symloc NDS9410/FAI 133170 555
+symloc NDS9430/FAI 133725 555
+symloc NDS9435/FAI 134280 555
+symloc NDS9933/FAI 134835 555
+symloc NDS9936/FAI 135390 555
+symloc NDS9942N/FAI 135945 558
+symloc NDS9942P/FAI 136503 558
+symloc NDS9943N/FAI 137061 558
+symloc NDS9943P/FAI 137619 558
+symloc NDS9945/FAI 138177 555
+symloc NDS9947/FAI 138732 555
+symloc NDS9948/FAI 139287 555
+symloc NDS9952AN/FAI 139842 561
+symloc NDS9952AP/FAI 140403 561
+symloc NDS9952N/FAI 140964 558
+symloc NDS9952P/FAI 141522 558
+symloc NDS9953/FAI 142080 555
+symloc NDS9953A/FAI 142635 558
+symloc NDS9955/FAI 143193 555
+symloc NDS9956/FAI 143748 555
+symloc NDS9956A/FAI 144303 558
+symloc NDS9957/FAI 144861 555
+symloc NDS9958N/FAI 145416 558
+symloc NDS9958P/FAI 145974 558
+symloc NDS9959/FAI 146532 555
+symloc NDT014/FAI 147087 552
+symloc NDT014L/FAI 147639 555
+symloc NDT2955/FAI 148194 555
+symloc NDT3055/FAI 148749 555
+symloc NDT3055L/FAI 149304 558
+symloc NDT410EL/FAI 149862 558
+symloc NDT451AN/FAI 150420 558
+symloc NDT451N/FAI 150978 555
+symloc NDT452P/FAI 151533 555
+symloc NDT453N/FAI 152088 555
+symloc NDT454P/FAI 152643 555
+symloc NDT455N/FAI 153198 555
+symloc NDT456P/FAI 153753 555
+*symbol 2N7000/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=2N7000/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=2N7000/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol 2N7002/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=2N7002/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=2N7002/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol BSS123/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=BSS123/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=BSS123/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol BSS138/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=BSS138/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=BSS138/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol FDC6322CN/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=FDC6322CN/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=FDC6322CN/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol FDC6322CP/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=FDC6322CP/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=FDC6322CP/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol FDP7030L/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=FDP7030L/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=FDP7030L/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol FDS6680/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=FDS6680/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=FDS6680/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol FDV301N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=FDV301N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=FDV301N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol FDV304P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=FDV304P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=FDV304P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB4050/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB4050/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB4050/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB405A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB405A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB405A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB405AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB405AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB405AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB405AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB405AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB405AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB405AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB405AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB405AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB405B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB405B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB405B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB405BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB405BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB405BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB405BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB405BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB405BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB405BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB405BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB405BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB4060/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB4060/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB4060/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB406A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB406A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB406A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB406AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB406AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB406AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB406AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB406AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB406AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB406AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB406AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB406AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB406B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB406B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB406B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB406BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB406BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB406BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB406BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB406BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB406BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB406BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB406BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB406BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB408A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB408A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB408A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB408AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB408AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB408AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB408B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB408B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB408B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB408BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB408BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB408BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB505A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB505A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB505A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB505AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB505AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB505AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB505AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB505AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB505AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB505AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB505AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB505AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB505B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB505B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB505B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB505BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB505BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB505BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB505BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB505BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB505BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB505BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB505BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB505BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB5060/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB5060/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB5060/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB506A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB506A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB506A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB506AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB506AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB506AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB506AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB506AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB506AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB506AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB506AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB506AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB506B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB506B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB506B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB506BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB506BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB506BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB506BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB506BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB506BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB506BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB506BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB506BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB508A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB508A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB508A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB508AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB508AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB508AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB508B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB508B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB508B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB508BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB508BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB508BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB605A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB605A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB605A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB605AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB605AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB605AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB605AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB605AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB605AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB605AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB605AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB605AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB605B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB605B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB605B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB605BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB605BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB605BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB605BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB605BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB605BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB605BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB605BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB605BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB6060/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB6060/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB6060/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB6060L/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB6060L/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB6060L/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB606A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB606A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB606A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB606AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB606AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB606AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB606AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB606AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB606AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB606AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB606AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB606AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB606B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB606B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB606B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB606BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB606BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB606BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB606BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB606BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB606BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB606BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB606BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB606BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB608A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB608A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB608A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB608AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB608AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB608AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB608B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB608B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB608B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB608BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB608BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB608BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB7050/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB7050/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB7050/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB705A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB705A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB705A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB705AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB705AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB705AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB705AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB705AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB705AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB705AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB705AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB705AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB705B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB705B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB705B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB705BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB705BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB705BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB705BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB705BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB705BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB705BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB705BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB705BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB7060/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB7060/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB7060/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB7060L/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB7060L/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB7060L/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB706A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB706A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB706A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB706AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB706AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB706AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB706AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB706AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB706AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB706AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB706AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB706AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB706B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB706B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB706B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB706BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB706BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB706BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB706BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB706BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB706BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB706BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB706BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB706BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB708A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB708A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB708A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB708AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB708AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB708AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB708B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB708B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB708B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDB708BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDB708BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDB708BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDC631N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDC631N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDC631N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDC632P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDC632P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDC632P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDC651N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDC651N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDC651N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDC652P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDC652P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDC652P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDC7001N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDC7001N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDC7001N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDC7001P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDC7001P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDC7001P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDC7002N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDC7002N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDC7002N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDC7003P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDC7003P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDC7003P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDF0610/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDF0610/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDF0610/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDH831N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDH831N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDH831N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDH832P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDH832P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDH832P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDH8436/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDH8436/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDH8436/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDH8447/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDH8447/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDH8447/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDM3000Q1/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDM3000Q1/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDM3000Q1/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDM3000Q2/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDM3000Q2/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDM3000Q2/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDM3000Q3/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDM3000Q3/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDM3000Q3/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDM3000Q4/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDM3000Q4/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDM3000Q4/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDM3000Q5/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDM3000Q5/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDM3000Q5/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDM3000Q6/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDM3000Q6/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDM3000Q6/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP4050/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP4050/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP4050/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP405A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP405A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP405A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP405AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP405AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP405AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP405AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP405AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP405AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP405AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP405AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP405AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP405B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP405B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP405B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP405BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP405BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP405BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP405BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP405BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP405BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP405BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP405BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP405BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP4060/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP4060/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP4060/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP406A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP406A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP406A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP406AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP406AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP406AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP406AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP406AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP406AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP406AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP406AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP406AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP406B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP406B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP406B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP406BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP406BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP406BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP406BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP406BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP406BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP406BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP406BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP406BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP408A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP408A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP408A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP408AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP408AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP408AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP408B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP408B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP408B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP408BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP408BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP408BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP505A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP505A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP505A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP505AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP505AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP505AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP505AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP505AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP505AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP505AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP505AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP505AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP505B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP505B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP505B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP505BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP505BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP505BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP505BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP505BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP505BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP505BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP505BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP505BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP506A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP506A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP506A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP506AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP506AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP506AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP506AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP506AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP506AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP506AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP506AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP506AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP506B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP506B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP506B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP506BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP506BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP506BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP506BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP506BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP506BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP506BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP506BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP506BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP508A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP508A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP508A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP508AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP508AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP508AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP508B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP508B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP508B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP508BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP508BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP508BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP603AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP603AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP603AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP605A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP605A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP605A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP605AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP605AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP605AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP605AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP605AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP605AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP605AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP605AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP605AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP605B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP605B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP605B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP605BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP605BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP605BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP605BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP605BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP605BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP605BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP605BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP605BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP6060/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP6060/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP6060/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP6060L/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP6060L/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP6060L/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP606A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP606A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP606A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP606AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP606AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP606AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP606AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP606AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP606AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP606AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP606AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP606AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP606B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP606B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP606B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP606BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP606BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP606BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP606BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP606BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP606BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP606BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP606BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP606BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP608A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP608A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP608A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP608AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP608AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP608AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP608B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP608B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP608B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP608BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP608BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP608BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP7050/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP7050/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP7050/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP7051/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP7051/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP7051/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP705A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP705A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP705A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP705AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP705AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP705AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP705AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP705AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP705AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP705AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP705AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP705AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP705B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP705B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP705B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP705BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP705BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP705BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP705BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP705BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP705BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP705BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP705BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP705BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP7060/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP7060/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP7060/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP7060L/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP7060L/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP7060L/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP7061/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP7061/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP7061/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP706A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP706A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP706A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP706AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP706AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP706AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP706AEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP706AEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP706AEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP706AL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP706AL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP706AL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP706B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP706B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP706B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP706BE
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP706BE
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP706BE
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP706BEL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP706BEL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP706BEL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP706BL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP706BL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP706BL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP708A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP708A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP708A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP708AE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP708AE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP708AE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP708B/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP708B/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP708B/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDP708BE/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDP708BE/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDP708BE/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS0605/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS0605/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS0605/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS0610/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS0610/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS0610/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS331N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS331N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS331N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS332P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS332P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS332P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS335N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS335N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS335N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS336P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS336P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS336P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS351N/AI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS351N/AI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS351N/AI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS352P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS352P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS352P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS355N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS355N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS355N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS356P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS356P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS356P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS7002A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS7002A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS7002A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8410/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8410/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8410/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8426/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8426/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8426/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8433/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8433/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8433/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8434/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8434/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8434/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8435/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8435/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8435/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8852HN/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8852HN/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8852HN/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8852HP/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8852HP/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8852HP/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8858HN/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8858HN/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8858HN/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8858HP/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8858HP/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8858HP/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8926/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8926/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8926/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8928N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8928N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8928N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8928P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8928P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8928P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8934/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8934/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8934/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8936/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8936/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8936/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8947/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8947/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8947/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8958N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8958N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8958N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS8958P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS8958P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS8958P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9400/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9400/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9400/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9400A/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9400A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9400A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9405/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9405/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9405/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9407/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9407/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9407/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9410/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9410/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9410/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9430/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9430/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9430/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9435/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9435/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9435/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9933/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9933/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9933/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9936/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9936/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9936/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9942N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9942N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9942N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9942P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9942P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9942P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9943N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9943N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9943N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9943P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9943P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9943P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9945/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9945/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9945/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9947/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9947/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9947/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9948/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9948/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9948/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9952AN/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9952AN/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9952AN/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9952AP/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9952AP/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9952AP/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9952N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9952N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9952N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9952P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9952P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9952P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9953/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9953/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9953/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9953A/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9953A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9953A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9955/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9955/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9955/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9956/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9956/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9956/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9956A/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9956A/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9956A/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9957/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9957/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9957/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9958N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9958N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9958N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9958P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9958P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9958P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDS9959/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDS9959/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDS9959/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT014/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT014/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT014/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT014L/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT014L/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT014L/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT2955/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT2955/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT2955/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT3055/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT3055/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT3055/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT3055L/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT3055L/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT3055L/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT410EL/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT410EL/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT410EL/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT451AN/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT451AN/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT451AN/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT451N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT451N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT451N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT452P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT452P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT452P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT453N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT453N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT453N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT454P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT454P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT454P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT455N/FAI
+d n-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT455N/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT455N/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 29 22
+23 20
+29 18
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;
+*symbol NDT456P/FAI
+d p-channel mosfet - enhancement
+@type p
+@attributes
+a 0 s 9 0 5 10 hcn 100 REFDES=M?
+a 0 sp 11 0 10 40 hcn 100 PART=NDT456P/FAI
+a 0 sp 0 0 10 40 hcn 100 MODEL=NDT456P/FAI
+a 0 s 0:13 0 0 0 hln 100 TEMPLATE=X^@REFDES %d %g %s @MODEL
+@pins
+p 0 13 22 hln 100 g n 0 20 h
+p 0 25 40 hcn 100 s n 30 40 v
+p 0 25 10 hcn 100 d n 30 0 d
+@graphics 30 40 0 20 10
+v 0 23 18
+29 20
+23 22
+;
+v 0 20 30
+30 30
+;
+v 0 20 10
+30 10
+;
+v 0 15 10
+15 30
+;
+v 0 20 20
+30 20
+;
+v 0 10 20
+15 20
+;
+v 0 20 7
+20 13
+;
+v 0 20 17
+20 23
+;
+v 0 20 27
+20 33
+;
+v 0 30 20
+30 30
+;

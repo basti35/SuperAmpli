@@ -1,0 +1,421 @@
+
+**** 01/26/12 17:42:49 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-time_domain"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\time_domain.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "time_domain.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/OrCAD/OrCAD_16.2/tools/pspice/library/pwrmos.lib" 
+.LIB "../../../stadio 3_caso a -pspicefiles/stadio 3_caso a .lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.2\tools\PSpice\PSpice.ini file:
+.lib "C:\OrCAD\OrCAD_16.2\tools\pspice\library\pwrbjt.lib" 
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 2mS 0ms 1ns 
+.OPTIONS RELTOL= 0.0001
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source STADIO 3_CASO A 
+V_V3         N09676 0 33Vdc
+V_V2         N00336 0 65Vdc
+V_V4         N09730 0 40Vdc
+R_Rs         0 N00276  7 TC=0,0 
+C_C1         N00276 N10701  220u  TC=0,0 
+M_M1         N00336 N00168 N00276 N00276 IRFP250
+M_M2         N09730 N09676 N09706 N09706 IRFP250
+V_V1         N10085 0 33Vdc
+V_V5         N00168 N10085  
++SIN 0 31 30k 0 0 0
+R_R_L         0 N10701  8 TC=0,0 
+R_Rs1         0 N09706  7 TC=0,0 
+
+**** RESUMING time_domain.cir ****
+.END
+
+**** 01/26/12 17:42:49 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-time_domain"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\time_domain.sim ] 
+
+
+ ****     MOSFET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               IRFP250         
+               NMOS            
+       LEVEL    3            
+           L    2.000000E-06 
+           W    1.2          
+         VTO    3.573        
+          KP   21.040000E-06 
+       GAMMA    0            
+         PHI     .6          
+      LAMBDA    0            
+          RD     .04988      
+          RS    7.336000E-03 
+          RG    5.029        
+         RDS  888.900000E+03 
+          IS   17.840000E-12 
+          JS    0            
+          PB     .8          
+        PBSW     .8          
+         CBD    4.368000E-09 
+          CJ    0            
+        CJSW    0            
+          TT  340.000000E-09 
+        CGSO    1.458000E-09 
+        CGDO  367.400000E-12 
+        CGBO    0            
+         TOX  100.000000E-09 
+          XJ    0            
+       UCRIT   10.000000E+03 
+       DELTA    0            
+         ETA    0            
+      DIOMOD    1            
+         VFB    0            
+        LETA    0            
+        WETA    0            
+          U0    0            
+        TEMP    0            
+         VDD    5            
+       XPART    0            
+
+
+**** 01/26/12 17:42:49 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-time_domain"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\time_domain.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00168)   33.0000 (N00276)   28.5930 (N00336)   65.0000 (N09676)   33.0000     
+
+(N09706)   28.5930 (N09730)   40.0000 (N10085)   33.0000 (N10701)    0.0000 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V3         0.000E+00
+    V_V2        -4.085E+00
+    V_V4        -4.085E+00
+    V_V1         0.000E+00
+    V_V5         0.000E+00
+
+    TOTAL POWER DISSIPATION   4.29E+02  WATTS
+
+Reducing minimum delta to make the circuit converge.
+Reducing minimum delta to make the circuit converge.
+Reducing minimum delta to make the circuit converge.
+Reducing minimum delta to make the circuit converge.
+Reducing minimum delta to make the circuit converge.
+
+ERROR -- Convergence problem in transient analysis at Time =  25.12E-06
+         Time step =  58.21E-21, minimum allowable step size =  1.000E-18
+
+  These voltages failed to converge:
+
+    V(N00276)                 =     13.46V  \     13.40V
+    V(N10701)                 =    -15.25V  \    -15.31V
+
+  These supply currents failed to converge:
+
+    I(V_V3)                   =  -136.33nA  \   -14.21fA
+    I(V_V2)                   =     1.182A  \   -8.330uA
+    I(V_V1)                   =    11.40mA  \  -317.53uA
+    I(V_V5)                   =    11.40mA  \  -317.53uA
+
+  These devices failed to converge:
+    M_M2      
+
+
+
+  Last node voltages tried were:
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00168)    2.0074 (N00276)   13.4590 (N00336)   65.0000 (N09676)   33.0000     
+
+(N09706)   28.5930 (N09730)   40.0000 (N10085)   33.0000 (N10701)  -15.2530 
+
+
+**** Interrupt ****
+**** Param: RELTOL = 0.0001
+**** Param: ABSTOL = 1e-012
+**** Param: VNTOL = 1e-009
+**** Param: GMIN = 1e-012
+**** Param: TSTOP = 0.002
+**** Param: TMAX = 1e-009
+**** Param: ITL1 = 150
+**** Param: ITL2 = 20
+**** Param: ITL4 = 10
+
+ **** Published Runtime Parameters *****************************
+                                                               
+                                       ABSTOL =      1.0000E-12
+                                      C_C1.ic =      0.0000E+00
+                                   C_C1.value =      2.2000E-04
+                                         GMIN =      1.0000E-12
+                                         ITL1 =      1.5000E+02
+                                         ITL2 =      2.0000E+01
+                                         ITL4 =      1.0000E+01
+                                    R_R_L.tc1 =      0.0000E+00
+                                    R_R_L.tc2 =      0.0000E+00
+                                  R_R_L.value =      8.0000E+00
+                                     R_Rs.tc1 =      0.0000E+00
+                                     R_Rs.tc2 =      0.0000E+00
+                                   R_Rs.value =      7.0000E+00
+                                    R_Rs1.tc1 =      0.0000E+00
+                                    R_Rs1.tc2 =      0.0000E+00
+                                  R_Rs1.value =      7.0000E+00
+                                       RELTOL =      1.0000E-04
+                                       RUNFOR =      0.0000E+00
+                                         TMAX =      1.0000E-09
+                                        TSTOP =      2.0000E-03
+                                      V_V1.ac =      0.0000E+00
+                                 V_V1.acphase =      0.0000E+00
+                                      V_V1.dc =      3.3000E+01
+                                      V_V2.ac =      0.0000E+00
+                                 V_V2.acphase =      0.0000E+00
+                                      V_V2.dc =      6.5000E+01
+                                      V_V3.ac =      0.0000E+00
+                                 V_V3.acphase =      0.0000E+00
+                                      V_V3.dc =      3.3000E+01
+                                      V_V4.ac =      0.0000E+00
+                                 V_V4.acphase =      0.0000E+00
+                                      V_V4.dc =      4.0000E+01
+                                      V_V5.ac =      0.0000E+00
+                                 V_V5.acphase =      0.0000E+00
+                                      V_V5.dc =      0.0000E+00
+                                        VNTOL =      1.0000E-09
+                                               
+               
+
+ERROR -- Convergence problem in transient analysis at Time =  25.12E-06
+         Time step =  465.7E-21, minimum allowable step size =  1.000E-18
+
+  These voltages failed to converge:
+
+    V(N00276)                 =     13.41V  \     13.40V
+    V(N10701)                 =    -15.30V  \    -15.31V
+
+  These supply currents failed to converge:
+
+    I(V_V3)                   =    54.85nA  \   -14.21fA
+    I(V_V2)                   =   269.69mA  \   -8.330uA
+    I(V_V1)                   =    2.358mA  \  -317.53uA
+    I(V_V5)                   =    2.358mA  \  -317.53uA
+
+  These devices failed to converge:
+    M_M2      
+
+
+
+  Last node voltages tried were:
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00168)    2.0074 (N00276)   13.4140 (N00336)   65.0000 (N09676)   33.0000     
+
+(N09706)   28.5930 (N09730)   40.0000 (N10085)   33.0000 (N10701)  -15.2990 
+
+
+**** Interrupt ****
+**** Param: RELTOL = 0.0001
+**** Param: ABSTOL = 1e-012
+**** Param: VNTOL = 1e-009
+**** Param: GMIN = 1e-012
+**** Param: TSTOP = 0.002
+**** Param: TMAX = 1e-003
+**** Param: ITL1 = 150
+**** Param: ITL2 = 20
+**** Param: ITL4 = 10
+
+ **** Published Runtime Parameters *****************************
+                                                               
+                                       ABSTOL =      1.0000E-12
+                                      C_C1.ic =      0.0000E+00
+                                   C_C1.value =      2.2000E-04
+                                         GMIN =      1.0000E-12
+                                         ITL1 =      1.5000E+02
+                                         ITL2 =      2.0000E+01
+                                         ITL4 =      1.0000E+01
+                                    R_R_L.tc1 =      0.0000E+00
+                                    R_R_L.tc2 =      0.0000E+00
+                                  R_R_L.value =      8.0000E+00
+                                     R_Rs.tc1 =      0.0000E+00
+                                     R_Rs.tc2 =      0.0000E+00
+                                   R_Rs.value =      7.0000E+00
+                                    R_Rs1.tc1 =      0.0000E+00
+                                    R_Rs1.tc2 =      0.0000E+00
+                                  R_Rs1.value =      7.0000E+00
+                                       RELTOL =      1.0000E-04
+                                       RUNFOR =      0.0000E+00
+                                         TMAX =      1.0000E-03
+                                        TSTOP =      2.0000E-03
+                                      V_V1.ac =      0.0000E+00
+                                 V_V1.acphase =      0.0000E+00
+                                      V_V1.dc =      3.3000E+01
+                                      V_V2.ac =      0.0000E+00
+                                 V_V2.acphase =      0.0000E+00
+                                      V_V2.dc =      6.5000E+01
+                                      V_V3.ac =      0.0000E+00
+                                 V_V3.acphase =      0.0000E+00
+                                      V_V3.dc =      3.3000E+01
+                                      V_V4.ac =      0.0000E+00
+                                 V_V4.acphase =      0.0000E+00
+                                      V_V4.dc =      4.0000E+01
+                                      V_V5.ac =      0.0000E+00
+                                 V_V5.acphase =      0.0000E+00
+                                      V_V5.dc =      0.0000E+00
+                                        VNTOL =      1.0000E-09
+                                               
+               
+
+ERROR -- Convergence problem in transient analysis at Time =  25.12E-06
+         Time step =  465.7E-21, minimum allowable step size =  1.000E-18
+
+  These voltages failed to converge:
+
+    V(N00276)                 =     13.41V  \     13.40V
+    V(N10701)                 =    -15.30V  \    -15.31V
+
+  These supply currents failed to converge:
+
+    I(V_V3)                   =    54.85nA  \   -14.21fA
+    I(V_V2)                   =   269.69mA  \   -8.330uA
+    I(V_V1)                   =    2.358mA  \  -317.53uA
+    I(V_V5)                   =    2.358mA  \  -317.53uA
+
+  These devices failed to converge:
+    M_M2      
+
+
+
+  Last node voltages tried were:
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00168)    2.0074 (N00276)   13.4140 (N00336)   65.0000 (N09676)   33.0000     
+
+(N09706)   28.5930 (N09730)   40.0000 (N10085)   33.0000 (N10701)  -15.2990 
+
+
+**** Interrupt ****
+**** Param: RELTOL = 0.0001
+**** Param: ABSTOL = 1e-012
+**** Param: VNTOL = 1e-009
+**** Param: GMIN = 1e-012
+**** Param: TSTOP = 0.0002
+**** Param: TMAX = 0.001
+**** Param: ITL1 = 150
+**** Param: ITL2 = 20
+**** Param: ITL4 = 10
+
+ **** Published Runtime Parameters *****************************
+                                                               
+                                       ABSTOL =      1.0000E-12
+                                      C_C1.ic =      0.0000E+00
+                                   C_C1.value =      2.2000E-04
+                                         GMIN =      1.0000E-12
+                                         ITL1 =      1.5000E+02
+                                         ITL2 =      2.0000E+01
+                                         ITL4 =      1.0000E+01
+                                    R_R_L.tc1 =      0.0000E+00
+                                    R_R_L.tc2 =      0.0000E+00
+                                  R_R_L.value =      8.0000E+00
+                                     R_Rs.tc1 =      0.0000E+00
+                                     R_Rs.tc2 =      0.0000E+00
+                                   R_Rs.value =      7.0000E+00
+                                    R_Rs1.tc1 =      0.0000E+00
+                                    R_Rs1.tc2 =      0.0000E+00
+                                  R_Rs1.value =      7.0000E+00
+                                       RELTOL =      1.0000E-04
+                                       RUNFOR =      0.0000E+00
+                                         TMAX =      1.0000E-03
+                                        TSTOP =      2.0000E-04
+                                      V_V1.ac =      0.0000E+00
+                                 V_V1.acphase =      0.0000E+00
+                                      V_V1.dc =      3.3000E+01
+                                      V_V2.ac =      0.0000E+00
+                                 V_V2.acphase =      0.0000E+00
+                                      V_V2.dc =      6.5000E+01
+                                      V_V3.ac =      0.0000E+00
+                                 V_V3.acphase =      0.0000E+00
+                                      V_V3.dc =      3.3000E+01
+                                      V_V4.ac =      0.0000E+00
+                                 V_V4.acphase =      0.0000E+00
+                                      V_V4.dc =      4.0000E+01
+                                      V_V5.ac =      0.0000E+00
+                                 V_V5.acphase =      0.0000E+00
+                                      V_V5.dc =      0.0000E+00
+                                        VNTOL =      1.0000E-09
+                                               
+               
+
+ERROR -- Convergence problem in transient analysis at Time =  25.12E-06
+         Time step =  465.7E-21, minimum allowable step size =  1.000E-18
+
+  These voltages failed to converge:
+
+    V(N00276)                 =     13.41V  \     13.40V
+    V(N10701)                 =    -15.30V  \    -15.31V
+
+  These supply currents failed to converge:
+
+    I(V_V3)                   =    54.85nA  \   -14.21fA
+    I(V_V2)                   =   269.69mA  \   -8.330uA
+    I(V_V1)                   =    2.358mA  \  -317.53uA
+    I(V_V5)                   =    2.358mA  \  -317.53uA
+
+  These devices failed to converge:
+    M_M2      
+
+
+
+  Last node voltages tried were:
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00168)    2.0074 (N00276)   13.4140 (N00336)   65.0000 (N09676)   33.0000     
+
+(N09706)   28.5930 (N09730)   40.0000 (N10085)   33.0000 (N10701)  -15.2990 
+
+
+**** Interrupt ****

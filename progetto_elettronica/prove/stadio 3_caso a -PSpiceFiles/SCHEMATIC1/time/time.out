@@ -1,0 +1,151 @@
+
+**** 01/27/12 18:00:30 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-time"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\time.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "time.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../stadio 3_caso a -pspicefiles/pwrmos.lib" 
+.LIB "../../../stadio 3_caso a -pspicefiles/stadio 3_caso a .lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.2\tools\PSpice\PSpice.ini file:
+
+*Analysis directives: 
+.TRAN  0 500us 0 1e-6 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source STADIO 3_CASO A 
+I_I1         N00276 0 DC 3.8Adc  
+V_V3         N09676 0 33Vdc
+V_V2         N00336 0 28
+V_V4         N09730 0 40Vdc
+C_C1         N00276 N10701  2u  TC=0,0 
+M_M3         N00336 N10127 N00276 N00276 IRFP250
+M_M2         N09730 N09676 N09706 N09706 IRFP250
+V_V5         N10127 0  
++SIN 0 31 20k 0 0 0
+R_R_L         0 N10701  8 TC=0,0 
+R_Rs1         0 N09706  7 TC=0,0 
+
+**** RESUMING time.cir ****
+.END
+
+**** 01/27/12 18:00:30 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-time"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\time.sim ] 
+
+
+ ****     MOSFET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               IRFP250         
+               NMOS            
+       LEVEL    3            
+           L    2.000000E-06 
+           W    1.2          
+         VTO    3.573        
+          KP   21.040000E-06 
+       GAMMA    0            
+         PHI     .6          
+      LAMBDA    0            
+          RD     .04988      
+          RS    7.336000E-03 
+          RG    5.029        
+         RDS  888.900000E+03 
+          IS   17.840000E-12 
+          JS    0            
+          PB     .8          
+        PBSW     .8          
+         CBD    4.368000E-09 
+          CJ    0            
+        CJSW    0            
+          TT  340.000000E-09 
+        CGSO    1.458000E-09 
+        CGDO  367.400000E-12 
+        CGBO    0            
+         TOX  100.000000E-09 
+          XJ    0            
+       UCRIT   10.000000E+03 
+       DELTA    0            
+         ETA    0            
+      DIOMOD    1            
+         VFB    0            
+        LETA    0            
+        WETA    0            
+          U0    0            
+        TEMP    0            
+         VDD    5            
+       XPART    0            
+
+
+**** 01/27/12 18:00:30 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-time"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\time.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(N00276)   -4.3768 (N00336)   28.0000 (N09676)   33.0000 (N09706)   28.5930     
+
+(N09730)   40.0000 (N10127)    0.0000 (N10701)    0.0000 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V3         0.000E+00
+    V_V2        -3.800E+00
+    V_V4        -4.085E+00
+    V_V5         0.000E+00
+
+    TOTAL POWER DISSIPATION   2.70E+02  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 01/27/12 18:00:30 ******* PSpice 16.2.0 (Oct 2008) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-time"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\time.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .20
+

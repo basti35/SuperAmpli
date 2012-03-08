@@ -1,0 +1,21 @@
+** Profile: "SCHEMATIC1-time_domain"  [ Y:\ORCAD\progetto\prove\stadio 3_caso a -pspicefiles\schematic1\time_domain.sim ] 
+
+** Creating circuit file "time_domain.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/OrCAD/OrCAD_16.2/tools/pspice/library/pwrmos.lib" 
+.LIB "../../../stadio 3_caso a -pspicefiles/stadio 3_caso a .lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.2\tools\PSpice\PSpice.ini file:
+.lib "C:\OrCAD\OrCAD_16.2\tools\pspice\library\pwrbjt.lib" 
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 2mS 0ms 1ns 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

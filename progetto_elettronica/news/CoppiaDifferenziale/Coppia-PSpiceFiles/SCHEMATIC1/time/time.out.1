@@ -1,0 +1,107 @@
+
+**** 03/05/12 16:18:25 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-time"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CoppiaDifferenziale\coppia-PSpiceFiles\SCHEMATIC1\time.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "time.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/OrCAD/OrCAD_16.3_Demo/tools/pspice/library/fairchild.lib" 
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_16.3_Demo\tools\PSpice\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source COPPIA
+V_V8         N17682 0  
++SIN 3 200u 20kHz 0 0 0
+R_R10         N18942 N17606  1000 TC=0,0 
+V_V7         N17606 0 80
+R_R9         N18914 N17606  1000 TC=0,0 
+I_I3         N17594 0 DC 0.2  
+X_M6         N18942 N17682 N17594 2N7000/FAI
+X_M8         N18914 0 N17594 2N7000/FAI
+
+**** RESUMING time.cir ****
+.END
+
+ERROR -- EVALUATION VERSION analog Node Limit (64 Nodes) Exceeded!
+
+
+
+
+ABORTING SIMULATION
+**** 03/05/12 16:18:25 ******** PSpice Lite (June 2009) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-time"  [ C:\DOCUMENTS AND SETTINGS\ALE\DESKTOP\CoppiaDifferenziale\coppia-PSpiceFiles\SCHEMATIC1\time.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+Node counts:
+  Top level (NUNODS)                =           6
+  External (NCNODS)                 =          24
+  Total (NUMNOD)                    =          24
+
+Total device count (NUMEL)          =          41
+  Capacitors (C)                    =           4
+  Diodes (D)                        =           6
+  VCVS (E)                          =           4
+  Current Sources (I)               =           1
+  Inductors (L)                     =           2
+  MosFETs (M)                       =           6
+  Resistors (R)                     =          14
+  Voltage Sources (V)               =           2
+
+Number of subcircuits (X)           =           2
+
+Matrix statistics:
+  Matrix size (NSTOP)               =          24
+  Initial no. elements (NTTAR)      =           0
+  No. elements w/ fillin (NTTBR)    =           0
+  No. fillins (IFILL)               =           0
+  No. overflows (NTTOV)             =           0
+  No. LU operations (IOPS)          =           0
+  Percent sparsity (PERSPA)         =       0.000
+
+Analysis statistics:
+  No. total time points (NUMTTP)    =           0
+  No. rejected time points (NUMRTP) =           0
+  No. iterations (NUMNIT)           =           0
+
+Runtime statistics:                       Seconds      Iterations
+  Matrix load                       =        0.00
+  Matrix solution                   =        0.00               0
+  Readin                            =        0.00
+  General setup                     =        0.00
+  Setup                             =        0.00
+  DC sweep                          =        0.00               0
+  Bias point                        =        0.00               0
+  AC and noise                      =        0.00               0
+  Total transient analysis          =        0.00
+  Output                            =        0.00
+  Overhead                          =        0.00
+  Total job time                    =        0.00
+

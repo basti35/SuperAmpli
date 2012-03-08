@@ -1,0 +1,9 @@
+* source COMMONSOURCE
+V_V5         N11644 0 80
+R_R5         0 N11634  565 TC=0,0 
+V_V6         N11522 0  
++SIN 20 0.3 30k 0 0 0
+X_M5         N11654 N11522 N19535 BSS123/FAI
+R_R6         N11654 N11644  3k TC=0,0 
+I_I2         N19535 0 DC 0.03Adc  
+C_C1         N11654 N11634  1  TC=0,0 
